@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
-
+ 
 int main() {
- int a, b, p;
+  int a, b, c;  
   cin >> a >> b;
-  p = a * b;
-  cout << "PROD = " << p << endl;
-
+  c = (a - b);  
+  cout << c << endl;
+ 
 return 0;
 }
