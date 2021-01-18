@@ -1,0 +1,29 @@
+Declara variável assim:
+ -> int a = 10;
+    int b = 20;
+ -> int a, b;
+    a = 10;
+    b = 20;
+
+Escreve na tela:
+-> cout <<
+Lê do teclado:
+-> cin >>
+
+Usar no ínicio do código:
+-> #include <iostream>
+-> using namespace std;
+
+Tipos:
+
+Inteiros = int, long long
+Reais = float, double
+Lógico = bool
+Caractere (para strings) = char
+Soma: +
+Subtração: -
+Multiplicação: *
+Divisão: /
+Resto da divisão %
+Primeiro (*, /, %)
+Depois (+ e -)

@@ -1,2 +1,2 @@
 language = "cpp"
-run = "Torneio_1/URI_1004.cpp"
+run = "clang++-7 -pthread -std=c++11 -o main 'Aula_1/URI_1001.cpp' ; ./main"
